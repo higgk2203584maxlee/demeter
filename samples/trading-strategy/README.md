@@ -25,3 +25,5 @@ To use trading strategy datasource, you should:
 1. Apply an api key: [https://tradingstrategy.ai/docs/programming/setting-up-development-environment/index.html#get-an-api-key](https://tradingstrategy.ai/docs/programming/setting-up-development-environment/index.html#get-an-api-key)
 2. Install the environment: ```pip install trading-strategy```
 3. Follow the samples to create your strategy. 
+
+<!-- Auto-update: 2025-10-13T00:20:04.791330 -->
