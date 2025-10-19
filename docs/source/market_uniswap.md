@@ -24,3 +24,5 @@ Uniswap market supports the following functions:
 * collect_fee: Transfer assets from "pending fee" in position.
 * buy/sell: swap tokens with this pool.
 
+
+<!-- Auto-update: 2025-10-19T09:13:35.709919 -->
